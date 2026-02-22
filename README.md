@@ -58,22 +58,6 @@ MiniPKI/
 
 ---
 
-## 📦 Installation
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/minipki.git
-cd minipki
-```
-
-### 2. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
 
 ## ▶️ How to Run
 
@@ -187,13 +171,7 @@ It is intended for cybersecurity students and beginners.
 - Add user authentication
 - Add encrypted storage
 
----
 
-## 👨‍💻 Author
-
-Developed as an academic cybersecurity project.
-
-Author: Abdurahman Kaibaliev 
 
 
 ---
